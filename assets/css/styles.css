@@ -221,6 +221,14 @@ input {
   position: relative;
 }
 
+.danger{
+  color: #ff0000;
+  margin-bottom: 8px;
+  font-weight: 600;
+  text-align: center;
+  text-shadow: 0 5px 20px #ff0000;
+}
+
 @media screen and (max-width: 767px) {
   .nav__menu {
     position: fixed;
