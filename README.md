@@ -7,7 +7,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-- <br>Pages</br>: Home (landing page), About Us, and Subscripe pages are ready so far. Please Feel free to use it. <br>
+- <b>Pages</b>: Home (landing page), About Us, and Subscripe pages are ready so far. Please Feel free to use it. <br>
 
 Link to website: https://travelagency12466.netlify.app/ <br>
 Link to GitHub: https://github.com/student00012466/Web-Technologies.git 
